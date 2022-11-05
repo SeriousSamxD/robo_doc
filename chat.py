@@ -30,7 +30,7 @@ pairs = [
         ["Hello", "Hey there",]
     ], 
     [
-        r"what is your name ?",
+        r"what's your name ?",
         ["I am a bot created by Sam and Fam. you can call me chitti!",]
     ],
     [
